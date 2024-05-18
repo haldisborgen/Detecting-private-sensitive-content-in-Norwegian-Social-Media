@@ -1,4 +1,4 @@
 # Detecting-private-sensitive-content-in-Norwegian-Social-Media
-Please contact us for retrieval of the code and data set. [Custom Text](mailto:haldisborgen@gmail.com)
+Code and data set can be accessed upon request. Please contact us [here](mailto:haldisborgen@gmail.com)
 
 
